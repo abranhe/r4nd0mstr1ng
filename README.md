@@ -50,7 +50,7 @@ Return Type: `string`
 
 **rand(number)**
 
-> Return an string with costume number
+> Return an string with custom number
 
 Return Type: `string`
 

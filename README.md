@@ -7,7 +7,7 @@
 	: 🌀 Random String Generator
 </p>
 
-<p align="left">
+<p align="center">
 	<a href="https://travis-ci.org/abranhe/r4nd0mstr1ng"><img src="https://img.shields.io/travis/abranhe/r4nd0mstr1ng.svg?logo=travis" /></a>
 	<a href="https://github.com/abranhe"><img src="https://abranhe.com/badge.svg"></a>
 	<a href="https://cash.me/$abranhe"><img src="https://cdn.abraham.gq/badges/cash-me.svg"></a>

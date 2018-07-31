@@ -12,7 +12,7 @@
 	<a href="https://github.com/abranhe"><img src="https://abranhe.com/badge.svg"></a>
 	<a href="https://cash.me/$abranhe"><img src="https://cdn.abraham.gq/badges/cash-me.svg"></a>
 	<a href="https://www.patreon.com/abranhe"><img src="https://cdn.abraham.gq/badges/patreon.svg" /></a>
-	<a href="https://github.com/abranhe/abranhe.js/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abranhe/abranhe.js.svg" /></a>
+	<a href="https://github.com/abranhe/abranhe.js/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abranhe/r4nd0mstr1ng.svg" /></a>
 </p>
 
 # Why r4nd0mstr1ng?
@@ -74,6 +74,7 @@ Examples
 # Related
 
 -  [all-words](https://github.com/abranhe/all-words): Generate all available words (up to four letters) super fast.
+-  [randn](https://github.com/abranhe/randn): 🔢 Random number generator.
 
 # Team
 

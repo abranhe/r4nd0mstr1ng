@@ -1,21 +1,20 @@
 {
   "name": "r4nd0mstr1ng",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "r4nd0mstr1ng: 🌀 Random String Generator",
   "main": "index.js",
   "scripts": {
     "test": "ava"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/abranhe/r4nd0mstr1ng.git"
-  },
+  "repository": "abranhe/r4nd0mstr1ng",
+	"author": {
+		"name": "Abraham Hernandez",
+		"email": "abraham@abranhe.com",
+		"url": "https://abranhe.com"
+	},
   "files": [
     "index.js"
   ],
-  "engines": {
-    "node": ">=6"
-  },
   "keywords": [
     "string",
     "r4nd0mstr1ng",
@@ -23,18 +22,12 @@
     "random-string",
     "rand"
   ],
-  "author": {
-    "name": "Carlos Abraham",
-    "email": "abraham@abranhe.com",
-    "web": "abranhe.com"
-  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/abranhe/r4nd0mstr1ng/issues"
   },
-  "homepage": "https://go.abranhe.com/r4nd0mstr1ng",
+  "homepage": "https://p.abranhe.com/r4nd0mstr1ng",
   "devDependencies": {
-    "ava": "1.0.0-beta.6",
-    "meow": "^5.0.0"
+    "ava": "1.0.0-beta.6"
   }
 }

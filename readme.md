@@ -15,20 +15,20 @@
 	<a href="https://github.com/abranhe/r4nd0mstr1ng/blob/master/license"><img src="https://img.shields.io/github/license/abranhe/r4nd0mstr1ng.svg" /></a>
 </p>
 
-# Why r4nd0mstr1ng?
+## Why r4nd0mstr1ng?
 
 - Clean and focused
-- [CLI](#cli) included
+- [CLI](https://github.com/abranhe/random-string-cli)
 - Actively maintained
 - Fast and reliable
 
-# Install
+## Install
 
 ```
 $ npm install r4nd0mstr1ng
 ```
 
-# Usage
+## Usage
 
 ```js
 const rand = require('r4nd0mstr1ng');
@@ -40,7 +40,7 @@ console.log(rand(7));
 //=> dsdfGf4
 ```
 
-# API
+## API
 
 **rand()**
 
@@ -54,34 +54,19 @@ Return Type: `string`
 
 Return Type: `string`
 
-# CLI
 
-```
-Examples
-	$ r4nd0mstr1ng
-	HH9ICHiBSjKnK219w3R6eKgI58ffMW
+## Related
 
-	$ r4nd0mstr1ng --number 7
-	86mUSdT
-
-	$ r4nd0mstr1ng --n 50
-	GXq0Upu6U7m2qhJqeNZUm36eU123tUIVU7FsHiX92XRrqZIeKU
-
-	Options
-	 -n, --number  Generate an string with certain length
-```
-
-# Related
-
+- [random-string-cli](https://github.com/abranhe/random-string-cli): CLI for this module
 -  [all-words](https://github.com/abranhe/all-words): Generate all available words (up to four letters) super fast.
 -  [randn](https://github.com/abranhe/randn): 🔢 Random number generator.
 
-# Team
+## Team
 
 |[![Carlos Abraham](https://avatars3.githubusercontent.com/u/21347264?s=50)](https://abranhe.com)|
 | :-: |
 | [Carlos Abraham](https://github.com/abranhe) |
 
-# License
+## License
 
 [MIT](https://github.com/abranhe/r4nd0mstr1ng/blob/master/license) License © [Carlos Abraham](https://github.com/abranhe/)

@@ -1,10 +1,11 @@
 'use strict';
-module.exports = num => {
+module.exports = length => {
 	let str = '';
-	let alphaNumeric = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+	const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
 
-	for (var i = 0; i < (num || 30); i++) {
-		str += alphaNumeric.charAt(Math.floor(Math.random() * alphaNumeric.length));
+	for (let i = 0; i < (length || 30); i++) {
+		str += characters.charAt(Math.floor(Math.random() * characters.length));
 	}
+
 	return str;
 };

@@ -1,19 +1,19 @@
 {
   "name": "r4nd0mstr1ng",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "r4nd0mstr1ng: 🌀 Random String Generator",
-	"scripts": {
-		"test": "xo && ava && tsd"
+  "scripts": {
+    "test": "xo && ava && tsd"
   },
   "engines": {
-		"node": ">=8"
-	},
+    "node": ">=8"
+  },
   "repository": "abranhe/r4nd0mstr1ng",
-	"author": {
-		"name": "Abraham Hernandez",
-		"email": "abraham@abranhe.com",
-		"url": "https://abranhe.com"
-	},
+  "author": {
+    "name": "Abraham Hernandez",
+    "email": "abraham@abranhe.com",
+    "url": "https://abranhe.com"
+  },
   "files": [
     "index.js",
     "index.d.ts"
@@ -29,7 +29,7 @@
   "homepage": "https://p.abranhe.com/r4nd0mstr1ng",
   "devDependencies": {
     "ava": "*",
-		"tsd": "^0.7.2",
-		"xo": "*"
+    "tsd": "^0.7.2",
+    "xo": "*"
   }
 }
